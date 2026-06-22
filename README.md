@@ -1,4 +1,4 @@
-Group Repo For GEOPG 583 FINAL PROJECT 
+Group Repo For GEOG 583 FINAL PROJECT 
 
 This is taken from Jonathan McGlone, see the original readme below
 =====================
